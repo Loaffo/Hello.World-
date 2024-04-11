@@ -1,2 +1,2 @@
 # Hello.World-
-EPIC class
+EPIC Computer Science Class
